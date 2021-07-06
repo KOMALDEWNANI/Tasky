@@ -10,6 +10,7 @@ Tasky is built specifically for the purpose of improving your experience while m
 # DEMO
 A demo video how to use tasky can be seen here 
 
+![Demo video](Demo.gif)
 
 # TECH STACK
 - HTML5
